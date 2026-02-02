@@ -1,0 +1,9 @@
+youtube_transcript_api
+langchain_text_splitters
+langchain_openai
+langchain_community
+langchain_core
+python-dotenv
+langserve
+langchain>=0.1.16
+faiss-cpu
