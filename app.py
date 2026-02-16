@@ -125,7 +125,6 @@ Question: {question}
 with st.spinner("📥 Loading transcript and building AI..."):
 
     transcript = load_transcript(VIDEO_ID)
-
     if transcript is None:
         st.stop()
 
